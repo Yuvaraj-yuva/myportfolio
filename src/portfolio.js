@@ -215,7 +215,7 @@ const achievementSection = {
     {
       title: "Building Web Applications in PHP",
       subtitle: "Your Pathway to Professional Web Development with PHP",
-      image: require("./assets/images/php.jpg"),
+      image: require("./assets/images/Php.jpg"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
         {
